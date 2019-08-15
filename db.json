@@ -1,4 +1,12 @@
-{
-   "id": 1,
-    "title": "Post 1"
-}
+[
+   {
+      "id": 1,
+      "nama": "Cuci Kiloan"
+      "harga": "10000"  
+   },{
+      "id": 2,
+      "nama": "Cuci Satuan"
+      "harga": "10000"
+      
+   }
+]
