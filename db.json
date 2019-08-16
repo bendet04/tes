@@ -1,27 +1,37 @@
 {
   "loundri": {
-    "satuan": [
+    "status": "SUCCESS",
+    "msg": "",
+    "data": [
       {
-        "id": 1,
-        "nama": "Baju",
-        "harga": 1000
+        "kategori": "satuan",
+        "barang": [
+          {
+            "id": 1,
+            "nama": "Baju",
+            "harga": 1000
+          },
+          {
+            "id": 2,
+            "nama": "Celana",
+            "harga": 1000
+          },
+          {
+            "id": 3,
+            "nama": "Kolor",
+            "harga": 1000
+          }
+        ]
       },
       {
-        "id": 2,
-        "nama": "Celana",
-        "harga": 1000
-      },
-      {
-        "id": 3,
-        "nama": "Kolor",
-        "harga": 1000
-      }
-    ],
-    "kiloan": [
-      {
-        "id": 1,
-        "nama": "Kiloan",
-        "harga": 1000
+        "kategori": "kiloan",
+        "barang": [
+          {
+            "id": 1,
+            "nama": "Kiloan",
+            "harga": 1000
+          }
+        ]
       }
     ]
   }
