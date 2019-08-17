@@ -34,6 +34,11 @@
             "nama": "Kiloan",
             "kuantiti": 0,
             "harga": 1000
+          }, {
+            "id": 1,
+            "nama": "Kiloan",
+            "kuantiti": 0,
+            "harga": 1000
           }
         ]
       }
