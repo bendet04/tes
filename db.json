@@ -60,21 +60,18 @@
     "msg": "",
     "data": [
       {
-        "kategori": "kiloan",
-        "barang": [
-          {
-            "id": 1,
-            "nama": "Cuci Kering Setrika",
-            "kuantiti": 0,
-            "harga": 1000
-          },
-          {
-            "id": 1,
-            "nama": "Cuci Kering",
-            "kuantiti": 0,
-            "harga": 1000
-          }
-        ]
+        "progress": 0,
+        "no_order": "Order-001",
+        "status_order": "mengunggu_konfirmasi",
+        "total_order": 25000,
+        "tanggal": "25 agustus 2019"
+      },
+      {
+        "progress": 0,
+        "no_order": "Order-002",
+        "status_order": "selesai",
+        "total_order": 25000,
+        "tanggal": "25 agustus 2019"
       }
     ]
   },
