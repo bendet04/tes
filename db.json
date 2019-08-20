@@ -58,147 +58,75 @@
   "loundriv2": {
     "status": "SUCCESS",
     "msg": "",
-    "data_barang": {
-      "kiloan": [
-        {
-          "id": 1,
-          "nama": "Cuci Kering Setrika",
-          "kuantiti": 0,
-          "harga": 1000
-        },
-        {
-          "id": 1,
-          "nama": "Cuci Kering",
-          "kuantiti": 0,
-          "harga": 1000
-        }
-      ],
-      "satuan": {
-        "dryclean": {
-          "pria": [
-            {
-              "id": 1,
-              "nama": "Kiloan",
-              "kuantiti": 0,
-              "harga": 1000
-            },
-            {
-              "id": 1,
-              "nama": "Kiloan",
-              "kuantiti": 0,
-              "harga": 1000
-            },
-            {
-              "id": 1,
-              "nama": "Kiloan",
-              "kuantiti": 0,
-              "harga": 1000
-            }
-          ],
-          "wanita": [
-            {
-              "id": 1,
-              "nama": "Kiloan",
-              "kuantiti": 0,
-              "harga": 1000
-            },
-            {
-              "id": 1,
-              "nama": "Kiloan",
-              "kuantiti": 0,
-              "harga": 1000
-            },
-            {
-              "id": 1,
-              "nama": "Kiloan",
-              "kuantiti": 0,
-              "harga": 1000
-            }
-          ],
-          "lain": [
-            {
-              "id": 1,
-              "nama": "Kiloan",
-              "kuantiti": 0,
-              "harga": 1000
-            },
-            {
-              "id": 1,
-              "nama": "Kiloan",
-              "kuantiti": 0,
-              "harga": 1000
-            },
-            {
-              "id": 1,
-              "nama": "Kiloan",
-              "kuantiti": 0,
-              "harga": 1000
-            }
-          ]
-        },
-        "loundry": {
-          "pria": [
-            {
-              "id": 1,
-              "nama": "Kiloan",
-              "kuantiti": 0,
-              "harga": 1000
-            },
-            {
-              "id": 1,
-              "nama": "Kiloan",
-              "kuantiti": 0,
-              "harga": 1000
-            },
-            {
-              "id": 1,
-              "nama": "Kiloan",
-              "kuantiti": 0,
-              "harga": 1000
-            }
-          ],
-          "wanita": [
-            {
-              "id": 1,
-              "nama": "Kiloan",
-              "kuantiti": 0,
-              "harga": 1000
-            },
-            {
-              "id": 1,
-              "nama": "Kiloan",
-              "kuantiti": 0,
-              "harga": 1000
-            },
-            {
-              "id": 1,
-              "nama": "Kiloan",
-              "kuantiti": 0,
-              "harga": 1000
-            }
-          ],
-          "lain": [
-            {
-              "id": 1,
-              "nama": "Kiloan",
-              "kuantiti": 0,
-              "harga": 1000
-            },
-            {
-              "id": 1,
-              "nama": "Kiloan",
-              "kuantiti": 0,
-              "harga": 1000
-            },
-            {
-              "id": 1,
-              "nama": "Kiloan",
-              "kuantiti": 0,
-              "harga": 1000
-            }
-          ]
-        }
+    "data": [
+      {
+        "kategori": "kiloan",
+        "barang": [
+          {
+            "id": 1,
+            "nama": "Cuci Kering Setrika",
+            "kuantiti": 0,
+            "harga": 1000
+          },
+          {
+            "id": 1,
+            "nama": "Cuci Kering",
+            "kuantiti": 0,
+            "harga": 1000
+          }
+        ]
+      },
+      {
+        "kategori": "pria",
+        "barang": [
+          {
+            "id": 1,
+            "nama": "Cuci Kering Setrika",
+            "kuantiti": 0,
+            "harga": 1000
+          },
+          {
+            "id": 1,
+            "nama": "Cuci Kering",
+            "kuantiti": 0,
+            "harga": 1000
+          }
+        ]
+      },
+      {
+        "kategori": "wanita",
+        "barang": [
+          {
+            "id": 1,
+            "nama": "Cuci Kering Setrika",
+            "kuantiti": 0,
+            "harga": 1000
+          },
+          {
+            "id": 1,
+            "nama": "Cuci Kering",
+            "kuantiti": 0,
+            "harga": 1000
+          }
+        ]
+      },
+      {
+        "kategori": "lain",
+        "barang": [
+          {
+            "id": 1,
+            "nama": "Cuci Kering Setrika",
+            "kuantiti": 0,
+            "harga": 1000
+          },
+          {
+            "id": 1,
+            "nama": "Cuci Kering",
+            "kuantiti": 0,
+            "harga": 1000
+          }
+        ]
       }
-    }
+    ]
   }
 }
