@@ -87,15 +87,21 @@
         "barang": [
           {
             "id": 1,
-            "nama": "Cuci Kering Setrika",
+            "nama": "Kemeja",
             "kuantiti": 0,
             "harga": 1000
           },
           {
             "id": 1,
-            "nama": "Cuci Kering",
+            "nama": "Dasi",
             "kuantiti": 0,
-            "harga": 1000
+            "harga": 2000
+          },
+          {
+            "id": 1,
+            "nama": "Kolor",
+            "kuantiti": 0,
+            "harga": 3000
           }
         ]
       },
@@ -104,13 +110,13 @@
         "barang": [
           {
             "id": 1,
-            "nama": "Cuci Kering Setrika",
+            "nama": "Rok",
             "kuantiti": 0,
             "harga": 1000
           },
           {
             "id": 1,
-            "nama": "Cuci Kering",
+            "nama": "Daster",
             "kuantiti": 0,
             "harga": 1000
           }
@@ -121,13 +127,19 @@
         "barang": [
           {
             "id": 1,
-            "nama": "Cuci Kering Setrika",
+            "nama": "Kursi",
             "kuantiti": 0,
             "harga": 1000
           },
           {
             "id": 1,
-            "nama": "Cuci Kering",
+            "nama": "Meja",
+            "kuantiti": 0,
+            "harga": 1000
+          },
+          {
+            "id": 1,
+            "nama": "Sepatu",
             "kuantiti": 0,
             "harga": 1000
           }
