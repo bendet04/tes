@@ -55,7 +55,7 @@
       }
     ]
   },
-  "loundriv2": {
+  "kiloan": {
     "status": "SUCCESS",
     "msg": "",
     "data": [
@@ -75,7 +75,13 @@
             "harga": 1000
           }
         ]
-      },
+      }
+    ]
+  },
+  "satuan": {
+    "status": "SUCCESS",
+    "msg": "",
+    "data": [
       {
         "kategori": "pria",
         "barang": [
