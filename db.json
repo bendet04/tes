@@ -97,14 +97,14 @@
             "nama": "Dasi",
             "kuantiti": 0,
             "harga": 2000,
-            "harga_dryclean": 2000
+            "harga_dryclean": 3000
           },
           {
             "id": 1,
             "nama": "Kolor",
             "kuantiti": 0,
             "harga": 3000,
-            "harga_dryclean": 2000
+            "harga_dryclean": 4000
           }
         ]
       },
