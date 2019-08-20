@@ -89,19 +89,22 @@
             "id": 1,
             "nama": "Kemeja",
             "kuantiti": 0,
-            "harga": 1000
+            "harga": 1000,
+            "harga_dryclean": 2000
           },
           {
             "id": 1,
             "nama": "Dasi",
             "kuantiti": 0,
-            "harga": 2000
+            "harga": 2000,
+            "harga_dryclean": 2000
           },
           {
             "id": 1,
             "nama": "Kolor",
             "kuantiti": 0,
-            "harga": 3000
+            "harga": 3000,
+            "harga_dryclean": 2000
           }
         ]
       },
@@ -112,13 +115,15 @@
             "id": 1,
             "nama": "Rok",
             "kuantiti": 0,
-            "harga": 1000
+            "harga": 1000,
+            "harga_dryclean": 2000
           },
           {
             "id": 1,
             "nama": "Daster",
             "kuantiti": 0,
-            "harga": 1000
+            "harga": 1000,
+            "harga_dryclean": 2000
           }
         ]
       },
@@ -129,19 +134,22 @@
             "id": 1,
             "nama": "Kursi",
             "kuantiti": 0,
-            "harga": 1000
+            "harga": 1000,
+            "harga_dryclean": 2000
           },
           {
             "id": 1,
             "nama": "Meja",
             "kuantiti": 0,
-            "harga": 1000
+            "harga": 1000,
+            "harga_dryclean": 2000
           },
           {
             "id": 1,
             "nama": "Sepatu",
             "kuantiti": 0,
-            "harga": 1000
+            "harga": 1000,
+            "harga_dryclean": 2000
           }
         ]
       }
