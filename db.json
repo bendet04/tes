@@ -10,7 +10,7 @@
     "data_paket":{
       "aday":3000,
       "enamjam":2000,
-      "reguler":1000
+      "reguler":0
     },
     "data_barang": [
       {
