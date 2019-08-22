@@ -163,19 +163,19 @@
         "progress": 0,
         "no_order": "Order-001",
         "status_order": "menunggu konfirmasi",
-        "total_order":"25000",
-        "tanggal":"25 agustus 2019"
+        "total_order": 25000,
+        "tanggal": "25 agustus 2019"
       },
       {
         "progress": 0,
         "no_order": "Order-002",
         "status_order": "proses cuci",
-        "total_order":"25000",
-        "tanggal":"25 agustus 2019"
+        "total_order": 25000,
+        "tanggal": "25 agustus 2019"
       }
     ]
   },
-   "order_all": {
+  "order_all": {
     "status": "SUCCESS",
     "msg": "",
     "data": [
@@ -183,29 +183,29 @@
         "progress": 0,
         "no_order": "Order-001",
         "status_order": "menunggu konfirmasi",
-        "total_order":"25000",
-        "tanggal":"25 agustus 2019"
+        "total_order": 25000,
+        "tanggal": "25 agustus 2019"
       },
       {
         "progress": 0,
         "no_order": "Order-002",
         "status_order": "proses cuci",
-        "total_order":"25000",
-        "tanggal":"25 agustus 2019"
+        "total_order": 25000,
+        "tanggal": "25 agustus 2019"
       },
       {
         "progress": 0,
         "no_order": "Order-003",
         "status_order": "selesai",
-        "total_order":"25000",
-        "tanggal":"25 agustus 2019"
+        "total_order": 25000,
+        "tanggal": "25 agustus 2019"
       },
       {
         "progress": 0,
         "no_order": "Order-004",
         "status_order": "selesai",
-        "total_order":"25000",
-        "tanggal":"25 agustus 2019"
+        "total_order": 25000,
+        "tanggal": "25 agustus 2019"
       }
     ]
   }
