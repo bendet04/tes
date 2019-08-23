@@ -208,5 +208,14 @@
         "tanggal": "25 agustus 2019"
       }
     ]
+  },
+  "login": {
+    "status": "SUCCESS",
+    "msg": "",
+    "data": {
+      "no_telp": 8179070633,
+      "password": "password",
+      "nama": "Dwi Ganteng"
+    }
   }
 }
