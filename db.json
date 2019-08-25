@@ -165,7 +165,7 @@
         "status_order": "menunggu konfirmasi",
         "total_order": 25000,
         "tanggal": "25 agustus 2019",
-        "kategori": "satuan"
+        "kategori": "Satuan"
       },
       {
         "progress": 0,
@@ -173,7 +173,7 @@
         "status_order": "proses cuci",
         "total_order": 25000,
         "tanggal": "25 agustus 2019",
-        "kategori": "kiloan"
+        "kategori": "Kiloan"
       }
     ]
   },
